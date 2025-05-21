@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Abdulqudri/Abdulqudri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious and driven software developer focused on building reliable, secure, and scalable systems.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- 🧠 Backend Engineering with **NestJS**, **TypeORM**, and **PostgreSQL**
+- 💻 Frontend Development with **React** & **Tailwind CSS**
+- ☁️ Exploring **cloud computing** (AWS/GCP), CI/CD, and **Docker**
+- 🔐 Deepening my skills in **ethical hacking**, **CTFs**, and **web security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Exploring
+- 🕵️‍♂️ Bug bounty hunting
+- 🧱 Clean architecture and DDD
+- ⚙️ Automation with **Bash scripting**
+
+### 🛠️ Tools & Tech I Use Often
+`TypeScript` · `Node.js` · `NestJS` · `MySQL/PostgreSQL` · `Git` · `Docker` · `Linux`
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+Let's build cool things together. 🌐
