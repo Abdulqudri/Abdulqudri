@@ -3,7 +3,7 @@
 I'm a curious and driven software developer focused on building reliable, secure, and scalable systems.
 
 ### 💼 What I Do
-- 🧠 Backend Engineering with **NestJS**, **TypeORM**, and **PostgreSQL**
+- 🧠 Backend Engineering with **NestJS**, **TypeORM**, and **PostgreSQL**/**MySQL**
 - 💻 Frontend Development with **React** & **Tailwind CSS**
 - ☁️ Exploring **cloud computing** (AWS/GCP), CI/CD, and **Docker**
 - 🔐 Deepening my skills in **ethical hacking**, **CTFs**, and **web security**
